@@ -188,6 +188,10 @@ footer{
     justify-content: center;
     font-size: 0.85rem;
 }
+.foot-panel1 a{
+    color: white;
+    text-decoration: none;
+}
 .foot-panel2{
     background-color: #222f3d;
     color: white;
